@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ben W.
-- 👀 I’m interested in digital publishing.
+- 👀 I’m interested in analogue art, digital publishing and immersive spaces.
 - 📫 How to reach me: git [at] tla.fyi
 
 <!---
